@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ba81c8e-c9a5-47df-982b-cd0308836b3e" name="Changes" comment="" />
+    <list default="true" id="8ba81c8e-c9a5-47df-982b-cd0308836b3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_131072.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_16384.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_262144.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_32768.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_4096.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_524288.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_65536.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inventory_experiment_8192.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mvtiasfelipe69"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mvtiasfelipe69&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/mvtiasfelipe69/Lab4_S5_MatiasHerrera_RenatoParrra.git",
-    "accountId": "906ea1f1-acfa-4c56-b079-2440c8401112"
+    "accountId": "6870fa63-77df-42f7-8ff8-2727827b52d8"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3F9SxBSodbhHymrqM4ddrCncyBs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
@@ -89,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1781486036204</updated>
       <workItem from="1781486037406" duration="956000" />
+      <workItem from="1781487202456" duration="4795000" />
     </task>
     <servers />
   </component>
